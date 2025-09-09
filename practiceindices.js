@@ -36,7 +36,7 @@ for(let row=0; row<librarySystem.length; row++ ){
 Task 4: Write a loop that prints all the items on the second shelf.
 */
 
-let i =2;
+let i =1;
 console.log("Items on the second shelf are: " );//printing elements from second shelf/row
 for(let j =0; j<librarySystem[i].length; j++){
     console.log(librarySystem[i][j]);
